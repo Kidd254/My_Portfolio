@@ -139,6 +139,9 @@ I am always looking for ways to improve my project. If you have any suggestions 
 ## 📧 Authors <a name="authors"></a>
 
 - ***[Lawrence Muema Kioko](https://github.com/Kidd254)***
+- GitHub: [@githubhandle](https://github.com/Kidd254)
+- Twitter: [@twitterhandle](https://twitter.com/lawrenc98789206)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lawrence-muema-kioko)
 
 ## 🤝 Contributing <a name="contributing"></a>
 
